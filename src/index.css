@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Poppins', 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #fdfbf7;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-organic-dark {
+    @apply text-[#2d5016];
+  }
+
+  .text-organic-light {
+    @apply text-[#6b9d4f];
+  }
+
+  .bg-organic-primary {
+    @apply bg-[#2d5016];
+  }
+
+  .bg-organic-light {
+    @apply bg-[#f5f1e8];
+  }
+
+  .border-organic {
+    @apply border-[#d4c5b9];
+  }
+}

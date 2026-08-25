@@ -61,7 +61,7 @@ const NewAbout = () => {
             </h2>
             <div className="w-24 h-1 bg-organic-primary mx-auto mb-8"></div>
             <p className="text-lg md:text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-              Maa Vihat Impex is a trusted name in organic cotton trading, committed to sourcing and exporting purely ginned, truly organic cotton. We connect sustainable farms to global markets with excellence in quality and reliability.
+              Maa Vihat Impex is a leading exporter and supplier of premium organic cotton form india, committed to quality, sustainability, and ethical sourcing. With a strong focus on purity and reliability, we deliver globally trusted cotton products that meet international standards while supporting sustainable farming practices.
             </p>
           </motion.div>
 

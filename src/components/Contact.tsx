@@ -41,14 +41,14 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Phone',
-      content: '+91 99880 03877 (Mukesh Desai)',
-      href: 'tel:+919988003877',
+      content: '+91 92747 00230',
+      href: 'tel:+919274700230',
     },
     {
       icon: Phone,
       title: 'Sales & Enquiries',
-      content: '+91 70414 40230',
-      href: 'tel:+917041440230',
+      content: '+91 70414 40230','+91 92748 50230',
+      href: 'tel:+917041440230','+919274850230',
     },
     {
       icon: MapPin,

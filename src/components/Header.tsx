@@ -32,7 +32,7 @@ const Header = () => {
               </a>
               <a href="tel:+919988003877" className="flex items-center space-x-2 text-organic-dark hover:text-organic-light transition-colors">
                 <Phone size={16} />
-                <span>+91 99880 03877 (Mukesh Desai)</span>
+                <span>+91 99880 03877 </span>
               </a>
               <div className="flex items-center space-x-2 text-organic-dark">
                 <MapPin size={16} />

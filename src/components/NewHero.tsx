@@ -59,7 +59,7 @@ const NewHero = () => {
             variants={itemVariants}
             className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight"
           >
-            Purely Ginned, Truly Organic.
+            Purely Grown, Truly Sustainable.
           </motion.h1>
 
           <motion.p

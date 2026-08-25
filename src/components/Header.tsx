@@ -53,7 +53,7 @@ const Header = () => {
               className="flex items-center space-x-3"
             >
               <img
-                src="/mvi-main-logo.jpeg"
+                src="/public/maa_vihat_logo.png"
                 alt="Maa Vihat Impex Logo"
                 className="h-[4.5rem] w-[15rem] md:h-[4.5rem] md:w-[5rem] object-contain"
               />

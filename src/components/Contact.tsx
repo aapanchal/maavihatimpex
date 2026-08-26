@@ -47,8 +47,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Sales & Enquiries',
-      content: '+91 70414 40230','+91 92748 50230',
-      href: 'tel:+917041440230','+919274850230',
+      content: '+91 70414 40230, +91 92748 50230',
+      href: 'tel:+917041440230',
     },
     {
       icon: MapPin,

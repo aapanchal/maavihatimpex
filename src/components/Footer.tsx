@@ -134,7 +134,7 @@ const Footer = () => {
                 <span>+91 92747 00230 </span>
               </a>
               <a
-                href="tel:+917041440230""tel:+919274850230"
+                href="tel:+919274850230"
                 className="flex items-center space-x-2 text-white/80 hover:text-white transition-colors duration-300 text-sm"
               >
                 <Phone className="w-5 h-5" />

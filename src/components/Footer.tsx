@@ -64,7 +64,7 @@ const Footer = () => {
         >
           <motion.div variants={itemVariants}>
             <div className="flex items-center space-x-3 mb-4">
-              <img src="/mvi-main-logo.jpeg" alt="Maa Vihat Impex Logo" className="h-[4.5rem] w-[15rem] md:h-[4.5rem] md:w-[5rem] object-contain" />
+              <img src="/maa_vihat_logo.png" alt="Maa Vihat Impex Logo" className="h-[4.5rem] w-[15rem] md:h-[4.5rem] md:w-[5rem] object-contain" />
               <p className=" text-1xl font-bold">Maa Vihat Impex</p>
             </div>
             <p className="text-white/80 mb-4 text-sm">

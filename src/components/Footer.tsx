@@ -131,14 +131,14 @@ const Footer = () => {
                 className="flex items-center space-x-2 text-white/80 hover:text-white transition-colors duration-300 text-sm"
               >
                 <Phone className="w-5 h-5" />
-                <span>+91 99880 03877 (Mukesh Desai)</span>
+                <span>+91 92747 00230 </span>
               </a>
               <a
                 href="tel:+917041440230"
                 className="flex items-center space-x-2 text-white/80 hover:text-white transition-colors duration-300 text-sm"
               >
                 <Phone className="w-5 h-5" />
-                <span>+91 70414 40230 (Sales & Enquiries)</span>
+                <span>+91 70414 40230,+91 92748 50230 (Sales & Enquiries)</span>
               </a>
               <p className="text-white/80 text-sm">
                 Survey No 1416, Plot No 2/A, Kamla Amrut Industrial Estate, Indrad Road, Nr. Indrad Village, Indrad-384440, Mehsana, Gujarat

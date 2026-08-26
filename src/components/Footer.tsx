@@ -127,14 +127,14 @@ const Footer = () => {
                 <span>Enquiry@maavihatimpex.com</span>
               </a>
               <a
-                href="tel:+919988003877"
+                href="tel:+919274700230"
                 className="flex items-center space-x-2 text-white/80 hover:text-white transition-colors duration-300 text-sm"
               >
                 <Phone className="w-5 h-5" />
                 <span>+91 92747 00230 </span>
               </a>
               <a
-                href="tel:+917041440230"
+                href="tel:+917041440230""tel:+919274850230"
                 className="flex items-center space-x-2 text-white/80 hover:text-white transition-colors duration-300 text-sm"
               >
                 <Phone className="w-5 h-5" />

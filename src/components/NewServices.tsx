@@ -10,8 +10,11 @@ const NewServices = () => {
     {
       icon: Package,
       title: 'Organic Cotton Bales',
-      description: 'Premium quality ginned cotton bales, compressed and ready for export with full certification.',
-      image: 'https://images.unsplash.com/photo-1613299835157-e73eda33110a?w=400&h=300&fit=crop',
+      description: 'Premium fiber
+                    Uniform Staple
+                    Low contamination
+                    Export Quality',
+      image: 'https://img1.exportersindia.com/product_images/bc-full/2019/1/6071172/cotton-bale-01-1547877585_p_4657838_869684.jpeg',
     },
     {
       icon: Leaf,
